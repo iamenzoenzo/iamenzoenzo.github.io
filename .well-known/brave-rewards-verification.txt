@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: iamenzoenzo.netlify.app 
+Token: d9b295b9aefc328e83feff47a2831fa057e50d8fb0d28fa91130e107eb762e6f
